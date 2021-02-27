@@ -20,3 +20,5 @@ void loop()
 }
 
 ``` 
+
+apunte consume 36MA arduino vacio sin codigo 
