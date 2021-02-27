@@ -7,6 +7,9 @@
 
 
 ## Duerme el arduino durante 8 segundos
+
+![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Consumo-del-arduino-con-libreria.gif)
+
 ```c++
 #include "LowPower.h"
 
@@ -21,8 +24,6 @@ void loop()
 }
 
 ``` 
-
-![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Consumo-del-arduino-con-libreria.gif)
 
 * Consume 30mA
 * Apaga el Brown Out Detection y los convertidores de analogico a digital durante 8 segundos
