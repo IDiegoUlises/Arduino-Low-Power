@@ -19,5 +19,8 @@ void loop()
 ``` 
 
 apunte consume 36MA arduino vacio sin codigo 
-consume 36MA Ejecutando codigo
+.consume 36MA Ejecutando codigo
+
+.cossume 30Ma con la libreria power down
+
 
