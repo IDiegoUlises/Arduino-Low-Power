@@ -1,8 +1,8 @@
 # Arduino-Low-Power
 
-Investigacion sobre disminuir el consumo energetico del arduino
 
-## Codigo copiado de la liberia low power para prueba y mejorar
+
+## Duerme el arduino durante 8 segundos
 ```c++
 #include "LowPower.h"
 
@@ -18,9 +18,7 @@ void loop()
 
 ``` 
 
-apunte consume 36MA arduino vacio sin codigo 
-.consume 36MA Ejecutando codigo
-
-.cossume 30Ma con la libreria power down
+* Consume 30mA
+* Apaga el Brown Out Detection y los convertidores de analogico a digital durante 8 segundos
 
 
