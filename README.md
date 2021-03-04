@@ -32,4 +32,4 @@ void loop()
 
 Arduino uno conectado en vin consume 30mA 
 
-Arduino con la libreria low power conectado a vin consume
+Arduino con la libreria low power conectado a vin consume 20MA
