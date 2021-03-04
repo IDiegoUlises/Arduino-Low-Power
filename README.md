@@ -28,4 +28,6 @@ void loop()
 * Consume 30mA
 * Apaga el Brown Out Detection y los convertidores de analogico a digital durante 8 segundos
 
+## Investigacion 
 
+Arduino uno conectado en vin consume  
