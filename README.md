@@ -36,6 +36,8 @@ void loop()
 
 * Arduino consume 12mA en funcionamiento
 
+## Arduino sin la placa utilizando la libreria low power
+
 ![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Arduino-sin-placa-con-low-power.gif)
 
 * Arduino con libreria low power consume 6.5 Ua microfaradios
