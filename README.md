@@ -30,9 +30,13 @@ void loop()
 * Apaga el Brown Out Detection y los convertidores de analogico a digital durante 8 segundos
 * En el caso que se conecte a traves de vin consume 20mA
 
-## Arduino sin la placa
+## Arduino sin placa(Solo el microcontrolador)
 
-Arduino consume 12mA en funcionamiento
+![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Arduino-sin-placa-consumo.gif)
 
-Arduino con libreria power low consume 006.5 Ua microfaradios
+* Arduino consume 12mA en funcionamiento
+
+![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Arduino-sin-placa-con-low-power.gif)
+
+* Arduino con libreria low power consume 6.5 Ua microfaradios
 
