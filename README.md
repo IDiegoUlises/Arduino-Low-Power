@@ -3,6 +3,7 @@
 ![](https://github.com/IDiegoUlises/Arduino-Low-Power/blob/main/Images/Consumo-del-arduino-uno.gif)
 
 * El Arduino consume 36mA en funcionamiento
+* En el caso que se conecte a traves de vin consume 30mA
 
 
 
@@ -27,14 +28,7 @@ void loop()
 
 * Consume 30mA
 * Apaga el Brown Out Detection y los convertidores de analogico a digital durante 8 segundos
-
-## Investigacion 
-
-Arduino uno conectado en vin consume 30mA 
-
-Arduino con la libreria low power conectado a vin consume 20MA
-
-* Lo que sucede es supone que el arduino uno consume 46mA pero a mi me da otra medicion
+* * En el caso que se conecte a traves de vin consume 20mA
 
 ## Arduino sin la placa
 
