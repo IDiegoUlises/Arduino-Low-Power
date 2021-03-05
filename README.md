@@ -40,5 +40,5 @@ Arduino con la libreria low power conectado a vin consume 20MA
 
 Arduino consume 12mA en funcionamiento
 
-Arduino con libreria power low consume 00.65 Ua
+Arduino con libreria power low consume 006.5 Ua microfaradios
 
