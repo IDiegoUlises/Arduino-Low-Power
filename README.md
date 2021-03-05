@@ -35,3 +35,7 @@ Arduino uno conectado en vin consume 30mA
 Arduino con la libreria low power conectado a vin consume 20MA
 
 * Lo que sucede es supone que el arduino uno consume 46mA pero a mi me da otra medicion
+
+## Arduino sin la placa
+
+Arduino con blink(sin led) consume 12mA en funcionamiento
